@@ -1,10 +1,13 @@
 <h1>Hi, I'm John! Passionate Security Analyst
 
-<h2> Azure Cloud/Security Projects:https://github.com/JohnLunnon-cyber/Azure-SOC</h2>
+
+<h2> My Projects!</h2>
+
+<h2> Azure Cloud/Security Projects <br>https://github.com/JohnLunnon-cyber/Azure-SOC</h2>
 
 
 
-<h2>[linkedin]: www.linkedin.com/in/john-lunnon</h2> <b>
+<h2>[linkedin]: www.linkedin.com/in/john-lunnon</h2> <br>
 <h2>🤳 Connect with me:</h2> 
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
