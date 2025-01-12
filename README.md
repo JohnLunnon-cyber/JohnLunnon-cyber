@@ -7,7 +7,7 @@
 
 
 
-<h2>[linkedin]: www.linkedin.com/in/john-lunnon</h2> <br>
+<h2>[linkedin]:<br> www.linkedin.com/in/john-lunnon</h2> <br>
 
 
 <h2>[Certificates]<br>https://github.com/JohnLunnon-cyber/certificates</h2>
