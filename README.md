@@ -10,6 +10,8 @@
 <h2>[linkedin]: www.linkedin.com/in/john-lunnon</h2> <br>
 ![certified image](https://github.com/user-attachments/assets/2419dfb1-046e-4213-8028-7c0b20f77ee0)
 
+<h2>[Certificates]https://github.com/JohnLunnon-cyber/certificates</h2>
+
 <h2>🤳 Connect with me:</h2> 
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
