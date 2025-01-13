@@ -5,6 +5,7 @@
 
 <h2>
 [My GitHub Profile](https://github.com/yourusername)
+  [My GitHub Profile](https://github.com/yourusername)
 </h2>
 <h2>[linkedin]:<br> www.linkedin.com/in/john-lunnon</h2> <br>
 
