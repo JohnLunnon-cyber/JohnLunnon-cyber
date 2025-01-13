@@ -4,8 +4,8 @@
 <h2> My Projects!</h2>
 
 <h2>
-[My GitHub Profile](https://github.com/yourusername)
-  [My GitHub Profile](https://github.com/yourusername)
+[[My GitHub Profile](https://github.com/yourusername)
+  [My GitHub Profile](https://github.com/yourusername)](https://github.com/JohnLunnon-cyber/Creating-a-Live-SOC-Honeynet-in-Azure)
 </h2>
 <h2>[linkedin]:<br> www.linkedin.com/in/john-lunnon</h2> <br>
 
