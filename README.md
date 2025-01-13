@@ -3,9 +3,9 @@
 
 <h2> My Projects!</h2>
 
- <h2>Azure Cloud/Security Projects  <br>https://github.com/JohnLunnon-cyber/Creating-a-Live-SOC-Honeynet-in-Azure</h2>
-
-
+<h2>
+[Creating a Live SOC / Honeynet in Azure]([https://github.com/yourusername](https://github.com/JohnLunnon-cyber/Creating-a-Live-SOC-Honeynet-in-Azure))
+</h2>
 <h2>[linkedin]:<br> www.linkedin.com/in/john-lunnon</h2> <br>
 
 
