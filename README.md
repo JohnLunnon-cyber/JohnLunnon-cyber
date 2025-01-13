@@ -4,7 +4,7 @@
 <h2> My Projects!</h2>
 
 <h2> Azure Cloud/Security Projects <br>https://github.com/JohnLunnon-cyber/Azure-SOC</h2>
-https://github.com/JohnLunnon-cyber/Azure-SOC?tab=readme-ov-file#building-a-soc--honeynet-in-azure-live-traffic
+
 
 
 
