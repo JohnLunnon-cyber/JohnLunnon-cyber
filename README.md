@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Creating and Honeynet & SOC](https://github.com/JohnLunnon-cyber/Creating-a-Live-SOC-Honeynet-in-Azure)**
+- **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/JohnLunnon-cyber/Creating-a-Live-SOC-Honeynet-in-Azure)**
 <hr/>
 
 ## 🤳 Connect With Me
