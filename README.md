@@ -1,4 +1,4 @@
-<h1>Hi, I'm John! Cybersecurity Analyst
+<h1>John Lunnon's, It & Cybersecurity projects
 
 
 <h2> My Projects!</h2>
