@@ -12,6 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/JohnLunnon-cyber/Creating-a-Live-SOC-Honeynet-in-Azure)**
 - **[Threat Hunt Report: Unauthorized TOR Usage](https://github.com/JohnLunnon-cyber/threat-hunting-scenario-tor)**
+- **[Threat Hunt Report: Unauthorized Chrome Extensions](https://github.com/JohnLunnon-cyber/Threat-Hunt-Unauthorized-Chrome-Extension-Usage-on-VM-/tree/main)**
 <hr/>
 
 ## 🤳 Connect With Me
