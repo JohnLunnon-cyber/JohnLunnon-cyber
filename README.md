@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability STIG Implementations WN10-AU-000510 ](https://github.com/JohnLunnon-cyber/STIG-Implementations)**
 - **[Vulnerability STIG Implementations WN10-CC-000327 ](https://github.com/JohnLunnon-cyber/STIGS-WN10-CC-000327)**
 - **[Vulnerability STIG Implementations WN10-SO-000255 ](https://github.com/JohnLunnon-cyber/WN10-SO-000255-STIG-IMPLEMENTATION/blob/main/README.md)**
-- **[Vulnerability STIG Implementations WN10-SO-000255 ](https://github.com/JohnLunnon-cyber/WN10-CC-000035-STIG-IMPLEMENTATION/tree/main)**
+- **[Vulnerability STIG Implementations WN10-CC-000035 ](https://github.com/JohnLunnon-cyber/WN10-CC-000035-STIG-IMPLEMENTATION/tree/main)**
 
 ## 🚨 Threat Hunting and Security Operations
 
