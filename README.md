@@ -18,6 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunt Report: Unauthorized TOR Usage](https://github.com/JohnLunnon-cyber/threat-hunting-scenario-tor)**
 - **[Threat Hunt Report: Unauthorized Chrome Extensions](https://github.com/JohnLunnon-cyber/Threat-Hunt-Unauthorized-Chrome-Extension-Usage-on-VM-/tree/main)**
 - **[Threat Hunt Report: Unauthorized-Nmap-Usage](https://github.com/JohnLunnon-cyber/Unauthorized-Nmap-Usage/blob/main/README.md)**
+- **[Threat Hunt Report: Unauthorized-BitTorrent Install](https://github.com/JohnLunnon-cyber/Unauthorized-BitTorrent-Install/blob/main/README.md)**
 <hr/>
 
 ## 🤳 Connect With Me
