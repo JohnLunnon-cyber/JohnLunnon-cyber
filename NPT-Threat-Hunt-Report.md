@@ -386,6 +386,35 @@ AlertEvidence
 
 Retain `AlertId` when following an alert into its complete evidence. Multiple evidence rows can belong to the same alert.
 
+Executive Incident Overview (Non-Technical Summary)
+🚨 What Happened? (The Break-In)
+An unauthorized party gained access to a Finance department computer (npt-ws01) overnight.
+
+Rather than breaking through complex security walls, the attacker used a stolen IT account login (helpdesk). Once inside, they dropped a malicious program and named it WindowsUpdate.exe to look like standard Windows system software.
+
+🔑 How Did They Try to Stay Inside? (Setting Up Backdoors)
+To make sure they wouldn't lose access if the computer restarted or if password changes occurred, the attacker set up four separate hidden entrances:
+
+Startup Command: Configured the computer to automatically run the fake update program every time Windows turns on.
+
+Fake System Task: Created an automatic task hidden under the name GoogleUpdaterTask.
+
+Background Service: Set up a hidden system service called WindowsHealthSvc.
+
+Secret User Account: Created a brand-new administrator user account called nexus_admin.
+
+🌐 What Was the Danger? (Network Reach)
+After securing control of the workstation, the attacker attempted to communicate with an external website (updates.abordasync.website) and tried to reach deeper into the network toward a key server (npt-srv01).
+
+🛡️ How the Security Team Stopped It (Action Taken)
+Isolated the Workstation: Severed the computer's connection to the internet and internal network so the attacker couldn't steal data or move to other machines.
+
+Locked Down Accounts: Locked the compromised helpdesk account, forced password resets, and completely erased the secret nexus_admin account.
+
+Cleaned Up Backdoors: Removed the fake background services, registry keys, scheduled tasks, and purged the fake update file from the hard drive.
+
+Blocked Future Attempts: Added the malicious file's digital fingerprint (SHA256 hash) and external web address to company firewall blocklists.
+
 ## 13. Conclusion
 
 This guided exercise demonstrates how an investigation can progress from a login complaint to file delivery, execution, persistence, and broader host scoping. The strongest reviewed evidence confirms the implant's creation and an additional server alert. The remaining worksheet findings form a useful investigation framework, but their raw events must be retained to complete a defensible incident timeline and validate the full attack sequence.
