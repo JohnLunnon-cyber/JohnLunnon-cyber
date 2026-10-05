@@ -13,6 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability STIG Implementations WN10-CC-000035 ](https://github.com/JohnLunnon-cyber/WN10-CC-000035-STIG-IMPLEMENTATION/tree/main)**
 
 ## 🚨 Threat Hunting and Security Operations
+- **[Threat Hunt Report: Azuki Import/Export — Port of Entry](https://github.com/JohnLunnon-cyber/Azuki-Port-of-Entry)**
 - **[Threat Hunt Report: NPT Workstation Intrusion — Guided Lab](https://github.com/JohnLunnon-cyber/JohnLunnon-cyber/blob/main/NPT-Threat-Hunt-Report.md)**
 - **[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/JohnLunnon-cyber/Creating-a-Live-SOC-Honeynet-in-Azure)**
 - **[Threat Hunt Report: Unauthorized TOR Usage](https://github.com/JohnLunnon-cyber/threat-hunting-scenario-tor)**
